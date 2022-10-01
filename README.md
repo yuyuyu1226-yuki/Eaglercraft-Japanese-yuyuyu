@@ -1,2 +1,2 @@
-# eaglermypack
-my texture pack (lite version) on eaglercraft
+# 日本語のEaglercraft
+言語追加できない気がしてきた... 無理かも
